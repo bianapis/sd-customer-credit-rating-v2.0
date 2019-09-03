@@ -1,0 +1,22 @@
+{
+  "customerCreditRatingStateInitiateActionRecord" : {},
+  "customerCreditRatingStateInstanceStatus" : "customerCreditRatingStateInstanceStatus",
+  "customerCreditRatingStateInstanceReference" : "CCRSIR702240",
+  "customerCreditRatingStateInitiateActionReference" : "CCRSIAR702814",
+  "customerCreditRatingStateInstanceRecord" : {
+    "customerCreditRatingSchedule" : "customerCreditRatingSchedule",
+    "customerCreditRatingAssessmentRecord" : {
+      "creditRatingAssessmentResult" : "creditRatingAssessmentResult",
+      "creditRatingAssessmentDate" : "09-22-2018",
+      "creditRatingAssessmentType" : "creditRatingAssessmentType",
+      "creditRatingAssessmentWorkProducts" : "creditRatingAssessmentWorkProducts",
+      "assessmentCustomerBehaviorModelReference" : "786310"
+    },
+    "customerCreditRatingRecord" : {
+      "customerCreditRatingAssessment" : "customerCreditRatingAssessment",
+      "customerCreditRatingNarrative" : "customerCreditRatingNarrative",
+      "customerCreditRatingState" : "customerCreditRatingState",
+      "customerCreditRatingDate" : "09-22-2018"
+    }
+  }
+}

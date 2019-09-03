@@ -1,0 +1,25 @@
+{
+  "internalReportingRetrieveActionTaskRecord" : {},
+  "internalReportingInstanceAnalysis" : {
+    "internalReportingInstanceAnalysisReport" : {},
+    "internalReportingInstanceAnalysisRecord" : {},
+    "internalReportingInstanceAnalysisReportType" : "internalReportingInstanceAnalysisReportType",
+    "internalReportingInstanceAnalysisParameters" : "internalReportingInstanceAnalysisParameters"
+  },
+  "internalReportingRetrieveActionResponse" : "internalReportingRetrieveActionResponse",
+  "internalReportingRetrieveActionTaskReference" : "IRRATR756497",
+  "internalReportingInstanceReport" : {
+    "internalReportingInstanceReportRecord" : {},
+    "internalReportingInstanceReportParameters" : "internalReportingInstanceReportParameters",
+    "internalReportingInstanceReport" : {},
+    "internalReportingInstanceReportType" : "internalReportingInstanceReportType"
+  },
+  "customerCreditRatingStateInstanceRecord" : {
+    "customerReference" : "758954"
+  },
+  "internalReportingInstanceRecord" : {
+    "productServiceActivityReportSchedule" : "productServiceActivityReportSchedule",
+    "productServiceActivityReportReference" : "717140",
+    "productServiceActivityReport" : {}
+  }
+}

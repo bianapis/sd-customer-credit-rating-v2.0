@@ -1,0 +1,13 @@
+{
+  "executeRecordReference" : "ERR747867",
+  "executeResponseRecord" : {},
+  "customerCreditRatingStateExecuteActionTaskReference" : "CCRSEATR752800",
+  "customerCreditRatingStateExecuteActionTaskRecord" : {},
+  "customerCreditRatingStateInstanceRecord" : {
+    "customerCreditRatingAssessmentRecord" : {
+      "creditRatingAssessmentResult" : "creditRatingAssessmentResult",
+      "creditRatingAssessmentDate" : "09-22-2018",
+      "creditRatingAssessmentWorkProducts" : "creditRatingAssessmentWorkProducts"
+    }
+  }
+}

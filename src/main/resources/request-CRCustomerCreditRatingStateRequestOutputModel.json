@@ -1,0 +1,13 @@
+{
+  "requestRecordReference" : "RRR709488",
+  "customerCreditRatingStateRequestActionTaskReference" : "CCRSRATR731260",
+  "customerCreditRatingStateRequestActionTaskRecord" : {},
+  "customerCreditRatingStateInstanceRecord" : {
+    "customerCreditRatingAssessmentRecord" : {
+      "creditRatingAssessmentResult" : "creditRatingAssessmentResult",
+      "creditRatingAssessmentDate" : "09-22-2018",
+      "creditRatingAssessmentWorkProducts" : "creditRatingAssessmentWorkProducts"
+    }
+  },
+  "requestResponseRecord" : {}
+}

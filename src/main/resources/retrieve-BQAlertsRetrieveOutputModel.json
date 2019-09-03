@@ -1,0 +1,27 @@
+{
+  "alertsInstanceAnalysis" : {
+    "alertsInstanceAnalysisReportType" : "alertsInstanceAnalysisReportType",
+    "alertsInstanceAnalysisReport" : {},
+    "alertsInstanceAnalysisRecord" : {},
+    "alertsInstanceAnalysisParameters" : "alertsInstanceAnalysisParameters"
+  },
+  "alertsInstanceRecord" : {
+    "date" : "09-22-2018",
+    "productInstanceReference" : "785473",
+    "employeeBusinessUnitReference" : "784861",
+    "customerCreditAlertDescription" : "customerCreditAlertDescription",
+    "customerCreditAlertType" : "customerCreditAlertType"
+  },
+  "customerCreditRatingStateInstanceRecord" : {
+    "customerReference" : "775205"
+  },
+  "alertsRetrieveActionTaskReference" : "ARATR744841",
+  "alertsRetrieveActionTaskRecord" : {},
+  "alertsRetrieveActionResponse" : "alertsRetrieveActionResponse",
+  "alertsInstanceReport" : {
+    "alertsInstanceReportParameters" : "alertsInstanceReportParameters",
+    "alertsInstanceReportType" : "alertsInstanceReportType",
+    "alertsInstanceReportRecord" : {},
+    "alertsInstanceReport" : {}
+  }
+}

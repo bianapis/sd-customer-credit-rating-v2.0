@@ -1,0 +1,12 @@
+{
+  "internalReportingCaptureRecordReference" : "IRCRR715787",
+  "internalReportingCaptureActionTaskReference" : "IRCATR720448",
+  "customerCreditRatingStateInstanceRecord" : {
+    "customerReference" : "792512"
+  },
+  "internalReportingInstanceRecord" : {
+    "productServiceActivityReportSchedule" : "productServiceActivityReportSchedule"
+  },
+  "captureResponseRecord" : {},
+  "internalReportingCaptureActionTaskRecord" : {}
+}

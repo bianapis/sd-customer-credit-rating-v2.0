@@ -1,0 +1,15 @@
+{
+  "externalReportingInstanceRecord" : {
+    "referencetotheratingagencycreditreport" : {},
+    "ratingAgencyCreditReport" : {},
+    "ratingAgencyReportSchedule" : "ratingAgencyReportSchedule",
+    "ratingAgencyCreditReportDate" : "09-22-2018"
+  },
+  "customerCreditRatingStateInstanceRecord" : {
+    "customerReference" : "738127"
+  },
+  "externalReportingCaptureRecordReference" : "ERCRR788089",
+  "captureResponseRecord" : {},
+  "externalReportingCaptureActionTaskRecord" : {},
+  "externalReportingCaptureActionTaskReference" : "ERCATR737380"
+}

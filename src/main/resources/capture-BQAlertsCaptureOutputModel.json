@@ -1,0 +1,12 @@
+{
+  "alertsCaptureActionTaskReference" : "ACATR743724",
+  "alertsCaptureRecordReference" : "ACRR791142",
+  "alertsCaptureActionTaskRecord" : {},
+  "alertsInstanceRecord" : {
+    "date" : "09-22-2018"
+  },
+  "customerCreditRatingStateInstanceRecord" : {
+    "customerReference" : "762245"
+  },
+  "captureResponseRecord" : {}
+}

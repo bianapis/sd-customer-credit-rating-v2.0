@@ -1,0 +1,27 @@
+{
+  "externalReportingRetrieveActionTaskRecord" : {},
+  "externalReportingInstanceAnalysis" : {
+    "externalReportingInstanceAnalysisParameters" : "externalReportingInstanceAnalysisParameters",
+    "externalReportingInstanceAnalysisRecord" : {},
+    "externalReportingInstanceAnalysisReport" : {},
+    "externalReportingInstanceAnalysisReportType" : "externalReportingInstanceAnalysisReportType"
+  },
+  "externalReportingRetrieveActionTaskReference" : "ERRATR782301",
+  "externalReportingInstanceReport" : {
+    "externalReportingInstanceReportType" : "externalReportingInstanceReportType",
+    "externalReportingInstanceReportParameters" : "externalReportingInstanceReportParameters",
+    "externalReportingInstanceReport" : {},
+    "externalReportingInstanceReportRecord" : {}
+  },
+  "externalReportingInstanceRecord" : {
+    "referencetotheratingagencycreditreport" : {},
+    "ratingAgencyCreditReportType" : "ratingAgencyCreditReportType",
+    "ratingAgencyCreditReport" : {},
+    "ratingAgencyReportSchedule" : "ratingAgencyReportSchedule",
+    "ratingAgencyCreditReportDate" : "09-22-2018"
+  },
+  "customerCreditRatingStateInstanceRecord" : {
+    "customerReference" : "705026"
+  },
+  "externalReportingRetrieveActionResponse" : "externalReportingRetrieveActionResponse"
+}
